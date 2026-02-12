@@ -1,7 +1,7 @@
 import pyfiglet
 from random import randint
 
-## REMOVE PRINT ON LINE 22 IF YOU TRULY WANT A GUESSING GAME 
+## REMOVE PRINT ON LINE 23 IF YOU TRULY WANT A GUESSING GAME 
 
 def generatebinarynumber():
         linebreak = "=" * 50
